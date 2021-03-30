@@ -3,7 +3,7 @@
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=dark)](https://github.com/DevOM3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8)](https://github.com/DevOM3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=10)](https://github.com/DevOM3)
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevOM3)](https://github.com/anuraghazra/github-readme-stats)-->
 
