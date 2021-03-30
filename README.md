@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Om Prashant Londhe from India
+I'm Om Prashant Londhe from India.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
