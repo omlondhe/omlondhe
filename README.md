@@ -24,6 +24,8 @@ My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 
 ![Profile views](https://gpvc.arturio.dev/DevOM3)  
 
+![GitHub metrics](https://metrics.lecoq.io/DevOM3)  
+
 
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
