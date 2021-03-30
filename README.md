@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Om Prashant Londhe from India.
+My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=dark)](https://github.com/DevOM3)
 
