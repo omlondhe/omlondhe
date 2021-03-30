@@ -4,7 +4,7 @@ I'm Om Prashant Londhe from India.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DevOM3/DevOM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
