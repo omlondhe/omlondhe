@@ -20,7 +20,7 @@ I'm a Student and a Developer.
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3&theme=dark)   
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3&theme=highcontrast)   
 
 
 
