@@ -15,10 +15,10 @@ I'm a Student and a Developer.
 - 📫 How to reach me: Just ping me on my E-mail or Website 😁 
 
 
-## My GtHub Trophies
+## My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevOM3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3&width=100&height=100)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3)   
 
