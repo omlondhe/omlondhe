@@ -20,13 +20,11 @@ I'm a Student and a Developer.
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3&theme=highcontrast)   
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=highcontrast)](https://github.com/DevOM3) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3&theme=highcontrast)   
 
 
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
-
-## [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
 
 ## My Socials
 
