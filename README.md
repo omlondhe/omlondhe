@@ -14,15 +14,14 @@ I'm a Student and a Developer.
 - ⚡ Fun fact: I love Coding ♥ 
 - 📫 How to reach me: Just ping me on my E-mail or Website 😁 
 
-
-## My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevOM3)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->  
 
+## My GitHub Statistics & Streak
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=highcontrast)](https://github.com/DevOM3) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3&theme=highcontrast)   
 
 
+## My GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevOM3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
 
