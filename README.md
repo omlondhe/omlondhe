@@ -21,7 +21,7 @@ I'm a Student and a Developer.
 
 
 ## My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
 
