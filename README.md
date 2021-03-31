@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/DevOM3) 
+
 ## Hi there 👋
 
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
@@ -22,17 +24,16 @@ My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3)  
-
-![Profile views](https://gpvc.arturio.dev/DevOM3)  
-
-![GitHub metrics](https://metrics.lecoq.io/DevOM3)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOM3)   
 
 
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
 
 ## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOM3&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)
+
+![GitHub metrics](https://metrics.lecoq.io/DevOM3)  
+
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevOM3)](https://github.com/anuraghazra/github-readme-stats)-->
 
