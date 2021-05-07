@@ -13,6 +13,7 @@ I'm a Student and a Developer.
 - 💬 Ask me about Anything you want 😛 
 - ⚡ Fun fact: I love Coding ♥ 
 - 📫 How to reach me: Just ping me on my E-mail or Website 😁 
+- 📇 My Web-Resume: [a link](https://devom3.github.io/Web-Resume/)
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->  
 
