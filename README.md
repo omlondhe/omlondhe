@@ -13,7 +13,7 @@ I'm a Student and a Developer.
 - 💬 Ask me about Anything you want 😛 
 - ⚡ Fun fact: I love Coding ♥ 
 - 📫 How to reach me: Just ping me on my E-mail or Website 😁 
-- 📇 [My Web-Resume:](https://devom3.github.io/Web-Resume/)
+- 📇 [My Web-Resume:](https://Om-Londhe.github.io/Web-Resume/)
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->  
 
@@ -33,7 +33,7 @@ I'm a Student and a Developer.
 
 ## My GitHub Metrics
 
-![GitHub metrics](https://metrics.lecoq.io/DevOM3)  
+![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)  
   
 <!--
 **Om-Londhe/Om-Londhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
