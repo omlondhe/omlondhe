@@ -24,6 +24,9 @@ I'm a Student and a Developer.
 ## My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Om-Londhe&row=2&column=4&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
 <!--## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)-->
 
 ## My Socials
