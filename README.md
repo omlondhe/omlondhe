@@ -7,7 +7,7 @@ WELCOME
 </h1>
 
 <p align="center">
-<a href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="71" height="71" /></a>
+<a href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a>
 </p>
 
 ![Visitors](https://gpvc.arturio.dev/Om-Londhe)
