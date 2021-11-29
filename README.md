@@ -7,7 +7,20 @@ WELCOME
 </h1>
 
 <p align="center">
+<a href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a>
+<a href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a>
+<a href="https://medium.com/@oplondhe"><img src="/images/medium.svg" width="44" height="44" /></a>
+<a href="https://dev.to/omlondhe"><img src="/images/dev.svg" width="44" height="44" /></a>
+<a href="https://twitter.com/OmLondhe2003"><img src="/images/twitter.svg" width="44" height="44" /></a>
+<a href="https://open.spotify.com/user/31qwx67gwp37qsik4j36s7xrna6m"><img src="/images/spotify.svg" width="44" height="44" /></a>
+<a href="https://www.youtube.com/channel/UCnyll20S7UJkXWvG0lVCGTw"><img src="/images/youtube.svg" width="44" height="44" /></a>
+<a href="https://play.google.com/store/search?q=pub%3AOm%20Londhe&c=apps"><img src="/images/playstore.svg" width="44" height="44" /></a>
+<a href="https://discord.com/channels/@me/914922032582504558"><img src="/images/discord.svg" width="44" height="44" /></a>
+<a href="https://stackoverflow.com/users/13173860/devom"><img src="/images/stackoverflow.svg" width="44" height="44" /></a>
+<a href="https://www.quora.com/profile/OmLondhe"><img src="/images/quora.svg" width="44" height="44" /></a>
+<a href="https://www.npmjs.com/~om-londhe"><img src="/images/npm.svg" width="44" height="44" /></a>
 <a href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a>
+<a href="https://www.google.com/search?q=om+londhe&sxsrf=AOaemvJFRLoTXGNEJpkE9vECqJnhQDv0IA%3A1638203469840&ei=TQClYd3WMs6O4-EPsMSFyA8&ved=0ahUKEwidsY6__730AhVOxzgGHTBiAfkQ4dUDCA4&uact=5&oq=om+londhe&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjELADECcyBwgjELADECcyBwgjELADECdKBAhBGAFQAFgAYN4BaAFwAHgAgAEAiAEAkgEAmAEAyAEDwAEB&sclient=gws-wiz"><img src="/images/google.svg" width="44" height="44" /></a>
 </p>
 
 ![Visitors](https://gpvc.arturio.dev/Om-Londhe)
