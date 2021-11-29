@@ -1,10 +1,4 @@
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
+<h1>Hi</h1>
 
 ![Profile views](https://gpvc.arturio.dev/Om-Londhe) 
 
