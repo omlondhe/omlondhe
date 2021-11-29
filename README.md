@@ -1,4 +1,4 @@
-<h1 class="center">Hi</h1>
+<h1 align="center">Hi</h1>
 
 ![Profile views](https://gpvc.arturio.dev/Om-Londhe) 
 
