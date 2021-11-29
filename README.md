@@ -1,8 +1,8 @@
 <p align="center"><img src="/images/hi.gif" /></p>
 
 <h1 align="center">
-HELLO<br\>
-&amp;<br\>
+HELLO \
+&amp; \
 WELCOME
 </h1>
 
