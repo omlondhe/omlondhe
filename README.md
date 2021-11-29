@@ -1,6 +1,6 @@
-<p align="right"><img src="/images/hi.gif" /></p>
+<p align="center"><img src="/images/hi.gif" /></p>
 
-<h1 align="right">
+<h1 align="center">
 HELLO
 &amp;
 WELCOME
