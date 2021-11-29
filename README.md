@@ -1,9 +1,7 @@
-<img src="/images/hi.gif" align="center" />
-<h1 align="center">Hi</h1>
+<p align="center"><img src="/images/hi.gif" /></p>
+<h1 align="center">HELLO<br\>&amp;<br\>WELCOME</h1>
 
 ![](https://gpvc.arturio.dev/Om-Londhe)
-
-## Hi there 👋
 
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 I'm a Student and a Developer.
