@@ -1,5 +1,10 @@
 <p align="center"><img src="/images/hi.gif" /></p>
-<h1 align="center">HELLO<br\>&amp;<br\>WELCOME</h1>
+
+<h1 align="center">
+HELLO<br\>
+&amp;<br\>
+WELCOME
+</h1>
 
 ![](https://gpvc.arturio.dev/Om-Londhe)
 
