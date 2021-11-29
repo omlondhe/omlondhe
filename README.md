@@ -1,4 +1,4 @@
-<h1 align="center">Hi (/images/hi.gif)</h1>
+<h1 align="center">Hi [!(/images/hi.gif)]</h1>
 
 ![](https://gpvc.arturio.dev/Om-Londhe)
 
