@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="/images/hi.gif" width="71" height="71" /> </h1>
+<h1 align="center">Hi <img src="/images/hi.gif" width="60" height="60" /> </h1>
 
 ![](https://gpvc.arturio.dev/Om-Londhe)
 
