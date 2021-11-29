@@ -7,7 +7,7 @@ WELCOME
 </h1>
 
 <p align="center">
-<a href="mailto:oplondhe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" /></a>
 </p>
 
 ![Visitors](https://gpvc.arturio.dev/Om-Londhe)
