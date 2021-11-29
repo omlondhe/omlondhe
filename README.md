@@ -7,7 +7,7 @@ WELCOME
 </h1>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](<oplondhe@gmail.com>)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](http://google.com.au/)
 </p>
 
 ![Visitors](https://gpvc.arturio.dev/Om-Londhe)
