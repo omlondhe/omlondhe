@@ -7,7 +7,7 @@ WELCOME
 </h1>
 
 <p align="center">
-[Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 ![Visitors](https://gpvc.arturio.dev/Om-Londhe)
