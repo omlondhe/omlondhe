@@ -1,11 +1,10 @@
 <p align="center"><img src="/images/hi.gif" /></p>
 
 <h1 align="center">
-HELLO &amp; WELCOME
+> HELLO &amp; WELCOME
 </h1>
-
 <p align="center">
-    <a target="_blank" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a>
+    <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://medium.com/@oplondhe"><img src="/images/medium.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://www.npmjs.com/~om-londhe"><img src="/images/npm.svg" width="44" height="44" /></a>
@@ -18,12 +17,12 @@ HELLO &amp; WELCOME
     <a target="_blank" href="https://dev.to/omlondhe"><img src="/images/dev.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://stackoverflow.com/users/13173860/devom"><img src="/images/stackoverflow.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://www.quora.com/profile/OmLondhe"><img src="/images/quora.svg" width="44" height="44" /></a>
-    <a target="_blank" href="https://www.youtube.com/channel/UCnyll20S7UJkXWvG0lVCGTw"><img src="/images/youtube.png" width="44" height="44" /></a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCnyll20S7UJkXWvG0lVCGTw"><img src="/images/youtube.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://open.spotify.com/user/31qwx67gwp37qsik4j36s7xrna6m"><img src="/images/spotify.svg" width="44" height="44" /></a>
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a>
 </p>
 
-![Visitors](https://gpvc.arturio.dev/Om-Londhe)
+![Visitors\](https://gpvc.arturio.dev/Om-Londhe)
 
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 I'm a Student and a Developer.
