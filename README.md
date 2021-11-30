@@ -19,14 +19,14 @@ I'm a Student who loves to develop things that can help me learn new things and 
 
 <h5 align="center">
 Scaler HackX 2021 #2 (2/10718)
-</h5>
-<h5 align="center">
+
 Google Devfest 2021 Web track #2
+
 </h5>
-<br/>
-<br/>
 <h5 align="center">
+
 [Resume](https://Om-Londhe.github.io/Web-Resume/)
+
 </h5>
 
 <hr/>
