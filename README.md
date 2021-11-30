@@ -19,10 +19,10 @@ I'm a Student who loves to develop things that can help me learn new things and 
 
 <h4 align="center">
 
-`Scaler HackX 2021 #2 (2/10718)`
+` Scaler HackX 2021 #2 (2/10718) `
 <br/>
 
-`Google Devfest 2021 Web track #2`
+` Google Devfest 2021 Web track #2 `
 
 </h4>
 <h5 align="center">
