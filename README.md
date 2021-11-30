@@ -23,18 +23,8 @@
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/Om-Londhe)
-[![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
-[![GitHub total-pull-requests](https://badgen.net/github/prs/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/pull/)
-[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aopen)
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
-[![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Aclosed)
-[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/pulls?q=is%3Amerged)
+[![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
 
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 I'm a Student and a Developer.
@@ -50,9 +40,6 @@ I'm a Student and a Developer.
 - 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
-
-[![Stargazers over time](https://starchart.cc/Om-Londhe/Om-Londhe.svg)](https://starchart.cc/Om-Londhe/Om-Londhe)
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Om-Londhe/Om-Londhe)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Om-Londhe/Om-Londhe)
 
 ## My GitHub Statistics & Streak
 
