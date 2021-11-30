@@ -42,13 +42,13 @@ I'm a Student and a Developer.
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
 
-    ## My GitHub Trophies
+## My GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Om-Londhe&theme=onestar&row=2&column=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img src="https://github-profile-trophy.vercel.app/?username=Om-Londhe&theme=onestar&row=2&column=4&no-bg=true" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Om-Londhe)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Om-Londhe)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=11)](https://github.com/Om-Londhe)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=7)](https://github.com/Om-Londhe)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
