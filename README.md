@@ -1,10 +1,10 @@
 <p align="center"><img src="/images/hi.gif" /></p>
 
 <h1 align="center">
-HELLO <h6>&amp;</h6> WELCOME
+HELLO &amp; WELCOME
 </h1>
 <p align="center">
-    <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a>
+    <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://medium.com/@oplondhe"><img src="/images/medium.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://www.npmjs.com/~om-londhe"><img src="/images/npm.svg" width="44" height="44" /></a>
