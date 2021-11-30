@@ -12,22 +12,23 @@ HELLO &amp; WELCOME
 
 </div>
 
-<!-- <h5 align="center"> -->
+<h5 align="center">
+My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
+I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
+</h5>
 
-`My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India. I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.`
+<h6 align="center">
 
-<!-- </h5> -->
+`Scaler HackX 2021 #2 (2/10718)`
+`Google Devfest 2021 Web track #2`
 
-<h6>
-- Scaler HackX 2021 #2 (2/10718)
-- Google Devfest 2021 Web track #2
+🔭 I’m currently working on myself to improve my _skills_ and take them even further 🚀
+👯 I’m looking to collaborate on everything that supports mankind 😇
+🤔 I’m looking for help with what you know better than me 😉
+💬 Ask me about anything you want 😛
+📫 How to reach me: Just ping me on my E-mail or Website 😁
+📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
 
-- 🔭 I’m currently working on myself to improve my _skills_ and take them even further 🚀
-- 👯 I’m looking to collaborate on everything that supports mankind 😇
-- 🤔 I’m looking for help with what you know better than me 😉
-- 💬 Ask me about anything you want 😛
-- 📫 How to reach me: Just ping me on my E-mail or Website 😁
-- 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
 </h6>
 
 <div align="center">
