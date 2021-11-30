@@ -9,7 +9,7 @@ HELLO &amp; WELCOME
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://medium.com/@oplondhe"><img src="/images/medium.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://www.npmjs.com/~om-londhe"><img src="/images/npm.svg" width="44" height="44" /></a>
-    <a target="_blank" href="https://g.dev/omlondhe"><img src="/images/googledeveloper.svg" width="44" height="44" /></a>
+    <a target="_blank" href="https://g.dev/omlondhe"><img src="/images/googledeveloper.png" width="44" height="44" /></a>
     <a target="_blank" href="https://twitter.com/OmLondhe2003"><img src="/images/twitter.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://play.google.com/store/search?q=pub%3AOm%20Londhe&c=apps"><img src="/images/playstore.svg" width="44" height="44" /></a>
     <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/e2d9970c-0bf9-46d4-a8f5-2a2d1b46088c"><img src="/images/gcloud.png" width="44" height="44" /></a>
