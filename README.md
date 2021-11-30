@@ -17,15 +17,13 @@ My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
 I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
 </h5>
 
-<h5 align="center">
-
-`Scaler HackX 2021 #2 (2/10718)`
-`Google Devfest 2021 Web track #2`
+<h6 align="center">
+Scaler HackX 2021 #2 (2/10718)
+Google Devfest 2021 Web track #2
 <br/>
 <br/>
 [Resume](https://Om-Londhe.github.io/Web-Resume/)
-
-</h5>
+</h6>
 
 <hr/>
 
