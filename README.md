@@ -4,6 +4,9 @@
 HELLO &amp; WELCOME
 </h1>
 
+<h2 align="center">
+Let's get connected!
+</h2>
 <p align="center">
     <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a> &nbsp;
@@ -50,8 +53,7 @@ GitHub trophies and Statistics
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
     <img src="https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Om-Londhe&theme=onestar" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
 </p>
 
 ## My GitHub Metrics
