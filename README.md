@@ -22,7 +22,8 @@
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a>
 </p>
 
-![Visitors\](https://gpvc.arturio.dev/Om-Londhe)
+\
+![Visitors](https://gpvc.arturio.dev/Om-Londhe)
 
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 I'm a Student and a Developer.
