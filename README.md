@@ -7,6 +7,47 @@ HELLO &amp; WELCOME
 <h2 align="center">
 Let's get connected!
 </h2>
+
+<div align="center">
+
+[![Profile views](https://gpvc.arturio.dev/Om-Londhe)](https://github.com/Om-Londhe)
+[![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
+
+</div>
+
+<hr/>
+
+My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
+I'm a Student and a Developer.
+
+- Scaler HackX 2021 _#2_ (2/10718)
+- Google Devfest 2021 Web track _#2_
+
+- 🔭 I’m currently working on myself to improve my _skills_ and take them even further 🚀
+- 👯 I’m looking to collaborate on everything that supports mankind 😇
+- 🤔 I’m looking for help with what you know better than me 😉
+- 💬 Ask me about anything you want 😛
+- 📫 How to reach me: Just ping me on my E-mail or Website 😁
+- 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
+
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
+
+<h2 align="center">
+Trophies and Statistics
+</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
+</p>
+
+<h2>GitHub metrics</h2>
+
+![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
+
 <p align="center">
     <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a> &nbsp;
@@ -25,40 +66,6 @@ Let's get connected!
     <a target="_blank" href="https://open.spotify.com/user/31qwx67gwp37qsik4j36s7xrna6m"><img src="/images/spotify.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a> &nbsp;
 </p>
-
-[![Profile views](https://gpvc.arturio.dev/Om-Londhe)](https://github.com/Om-Londhe)
-[![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
-[![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
-
-My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
-I'm a Student and a Developer.
-
-- Scaler HackX 2021 _#2_ (2/10718)
-- Google Devfest 2021 Web track _#2_
-
-- 🔭 I’m currently working on myself to improve my _skills_ and take them even further 🚀
-- 👯 I’m looking to collaborate on everything that supports mankind 😇
-- 🤔 I’m looking for help with what you know better than me 😉
-- 💬 Ask me about anything you want 😛
-- 📫 How to reach me: Just ping me on my E-mail or Website 😁
-- 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
-
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
-
-<h2 align="center">
-GitHub trophies and Statistics
-</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
-</p>
-
-## My GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
 
 <!--
 **Om-Londhe/Om-Londhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
