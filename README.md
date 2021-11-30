@@ -12,10 +12,12 @@ HELLO &amp; WELCOME
 
 </div>
 
-<h4 align="center">
-My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
-I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
-</h4>
+<!-- <h4 align="center"> -->
+
+> My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
+> I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
+
+<!-- </h4> -->
 
 <h3 align="center">
 Scaler HackX 2021 #2 (2/10718)
