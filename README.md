@@ -1,7 +1,7 @@
 <p align="center"><img src="/images/hi.gif" /></p>
 
 <h1 align="center">
-> HELLO &amp; WELCOME
+HELLO &amp; WELCOME
 </h1>
 <p align="center">
     <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a>
@@ -22,7 +22,7 @@
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Om-Londhe)
+[![Profile views]](https://gpvc.arturio.dev/Om-Londhe)
 [![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
 
@@ -57,7 +57,6 @@ I'm a Student and a Developer.
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 
 ## My GitHub Metrics
 
