@@ -23,11 +23,9 @@ HELLO &amp; WELCOME
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a> &nbsp;
 </p>
 
-<div align="center">
-![Profile views](https://gpvc.arturio.dev/Om-Londhe)
+[![Profile views](https://gpvc.arturio.dev/Om-Londhe)](https://github.com/Om-Londhe)
 [![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
-</div>
 
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 I'm a Student and a Developer.
@@ -56,10 +54,9 @@ I'm a Student and a Developer.
 
 <!--## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOM3&layout=compact&langs_count=8&show_icons=true&theme=highcontrast)](https://github.com/DevOM3)-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Om-Londhe)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Om-Londhe)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&layout=compact&theme=vision-friendly-dark)](https://github.com/Om-Londhe)
 
 ## My GitHub Metrics
 
