@@ -1,7 +1,7 @@
 <p align="center"><img src="/images/hi.gif" /></p>
 
 <h1 align="center">
-HELLO &amp; WELCOME
+HELLO <h6>&amp;</h6> WELCOME
 </h1>
 <p align="center">
     <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a>
@@ -22,7 +22,7 @@ HELLO &amp; WELCOME
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a>
 </p>
 
-[![Profile views]](https://gpvc.arturio.dev/Om-Londhe)
+![Profile views](https://gpvc.arturio.dev/Om-Londhe)
 [![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
 
