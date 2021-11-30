@@ -12,18 +12,19 @@ HELLO &amp; WELCOME
 
 </div>
 
-<!-- <h4 align="center"> -->
+<h4 align="center">
+My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
+I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
+</h4>
 
-> My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
-> I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
+<h4 align="center">
 
-<!-- </h4> -->
-
-<h3 align="center">
-Scaler HackX 2021 #2 (2/10718)
+`Scaler HackX 2021 #2 (2/10718)`
 <br/>
-Google Devfest 2021 Web track #2
-</h3>
+
+`Google Devfest 2021 Web track #2`
+
+</h4>
 <h5 align="center">
 
 [Click to see my Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
