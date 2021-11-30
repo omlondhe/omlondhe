@@ -23,8 +23,6 @@
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/Om-Londhe)
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Om-Londhe/Om-Londhe)
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
@@ -52,6 +50,9 @@ I'm a Student and a Developer.
 - 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
+
+[![Stargazers over time](https://starchart.cc/Om-Londhe/Om-Londhe.svg)](https://starchart.cc/Om-Londhe/Om-Londhe)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Om-Londhe/Om-Londhe)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Om-Londhe/Om-Londhe)
 
 ## My GitHub Statistics & Streak
 
