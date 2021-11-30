@@ -13,13 +13,13 @@ HELLO &amp; WELCOME
 </div>
 
 <h5 align="center">
-My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
-I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
+`My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
+I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.`
 </h5>
 
 <h6>
-- *Scaler HackX 2021* **#2** (2/10718)
-- *Google Devfest 2021* Web track **#2**
+- Scaler HackX 2021 #2 (2/10718)
+- Google Devfest 2021 Web track #2
 
 - 🔭 I’m currently working on myself to improve my _skills_ and take them even further 🚀
 - 👯 I’m looking to collaborate on everything that supports mankind 😇
