@@ -14,9 +14,12 @@ HELLO &amp; WELCOME
 
 <hr/>
 
+<h5 align="center">
 My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
 I'm a Student and a Developer.
+</h5>
 
+<h6 align="center">
 - Scaler HackX 2021 _#2_ (2/10718)
 - Google Devfest 2021 Web track _#2_
 
@@ -26,8 +29,14 @@ I'm a Student and a Developer.
 - 💬 Ask me about anything you want 😛
 - 📫 How to reach me: Just ping me on my E-mail or Website 😁
 - 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
+</h6>
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
+<h2 align="center">GitHub metrics</h2>
+<div align="center">
+
+![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
+
+</div>
 
 <hr/>
 <h2 align="center">
@@ -40,14 +49,6 @@ Trophies and Statistics
     <img src="https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
     <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
 </p>
-<hr/>
-
-<h2 align="center">GitHub metrics</h2>
-<div align="center">
-
-![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
-
-</div>
 <hr/>
 
 <h2 align="center">
