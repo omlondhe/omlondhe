@@ -4,10 +4,6 @@
 HELLO &amp; WELCOME
 </h1>
 
-<h2 align="center">
-Let's get connected!
-</h2>
-
 <div align="center">
 
 [![Profile views](https://gpvc.arturio.dev/Om-Londhe)](https://github.com/Om-Londhe)
@@ -33,6 +29,7 @@ I'm a Student and a Developer.
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevOM3)-->
 
+<hr/>
 <h2 align="center">
 Trophies and Statistics
 </h2>
@@ -43,11 +40,17 @@ Trophies and Statistics
     <img src="https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
     <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
 </p>
+<hr/>
 
 <h2>GitHub metrics</h2>
 
 ![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
 
+<hr/>
+
+<h2 align="center">
+Let's get connected!
+</h2>
 <p align="center">
     <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a> &nbsp;
