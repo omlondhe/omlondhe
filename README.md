@@ -42,10 +42,12 @@ Trophies and Statistics
 </p>
 <hr/>
 
-<h2>GitHub metrics</h2>
+<h2 align="center">GitHub metrics</h2>
+<div align="center">
 
 ![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
 
+</div>
 <hr/>
 
 <h2 align="center">
@@ -69,18 +71,3 @@ Let's get connected!
     <a target="_blank" href="https://open.spotify.com/user/31qwx67gwp37qsik4j36s7xrna6m"><img src="/images/spotify.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a> &nbsp;
 </p>
-
-<!--
-**Om-Londhe/Om-Londhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
