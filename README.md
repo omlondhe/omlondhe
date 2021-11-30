@@ -12,16 +12,14 @@ HELLO &amp; WELCOME
 
 </div>
 
-<hr/>
-
 <h5 align="center">
-My name is Om Prashant Londhe from Aurangabad, Maharashtra, India.
-I'm a Student and a Developer.
+My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
+I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
 </h5>
 
-<h6 align="center">
-- Scaler HackX 2021 _#2_ (2/10718)
-- Google Devfest 2021 Web track _#2_
+<h6>
+- *Scaler HackX 2021* **#2** (2/10718)
+- *Google Devfest 2021* Web track **#2**
 
 - 🔭 I’m currently working on myself to improve my _skills_ and take them even further 🚀
 - 👯 I’m looking to collaborate on everything that supports mankind 😇
@@ -31,7 +29,6 @@ I'm a Student and a Developer.
 - 📇 [My Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
 </h6>
 
-<h2 align="center">GitHub metrics</h2>
 <div align="center">
 
 ![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
@@ -39,9 +36,9 @@ I'm a Student and a Developer.
 </div>
 
 <hr/>
-<h2 align="center">
+<h3 align="center">
 Trophies and Statistics
-</h2>
+</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
@@ -51,9 +48,9 @@ Trophies and Statistics
 </p>
 <hr/>
 
-<h2 align="center">
+<h3 align="center">
 Let's get connected!
-</h2>
+</h3>
 <p align="center">
     <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a> &nbsp;
