@@ -23,10 +23,17 @@ I'm a Student who loves to develop things that can help me learn new things and 
 
 <h4 align="center">
 
-`** Scaler HackX 2021 #2 (2/10718 **`
+
+`| Postman Student Expert |`
 <br/>
 
-`** Google Devfest 2021 Web track #2 **`
+`| Elite at Scaler |`
+<br/>
+
+`| Scaler HackX 2021 #2 (2/10,718) |`
+<br/>
+
+`| Google Devfest 2021 Web track #2 |`
 
 </h4>
 <h5 align="center">
@@ -53,6 +60,7 @@ Trophies and Statistics
     <img src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
     <img src="https://github-readme-stats.vercel.app/api?username=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
     <img src="https://activity-graph.herokuapp.com/graph?username=omlondhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
+    <p align="center"> <img src="https://github.com/omlondhe/omlondhe/blob/output/github-contribution-grid-snake.svg" width="700"/> </p>
 </p>
 <hr/>
 
