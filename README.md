@@ -1,16 +1,20 @@
 <p align="center"><img src="/images/hi.gif" /></p>
 
 <h1 align="center">
-HELLO &amp; WELCOME
+HELLO &amp; WELCOME <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <div align="center">
 
-[![Profile views](https://gpvc.arturio.dev/Om-Londhe)](https://github.com/Om-Londhe)
-[![GitHub followers](https://img.shields.io/github/followers/Om-Londhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Om-Londhe?tab=followers)
-[![GitHub contributors](https://img.shields.io/github/contributors/Om-Londhe/Om-Londhe.svg)](https://GitHub.com/Om-Londhe/Om-Londhe/graphs/contributors/)
+[![Profile views](https://gpvc.arturio.dev/omlondhe)](https://github.com/omlondhe)
+[![Twitter: omlondhe03](https://img.shields.io/twitter/follow/omlondhe03?style=social)](https://twitter.com/omlondhe03)
+[![Linkedin: omlondhe](https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/)](https://www.linkedin.com/in/omlondhe/)
+[![GitHub followers](https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers)
+[![GitHub contributors](https://img.shields.io/github/contributors/omlondhe/omlondhe.svg)](https://GitHub.com/omlondhe/omlondhe/graphs/contributors/)
 
 </div>
+
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=omlondhe&linkedin=omlondhe&twitter=omlondhe03" href="https://linktr.ee/omlondhe"/>
 
 <h4 align="center">
 My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
@@ -19,15 +23,15 @@ I'm a Student who loves to develop things that can help me learn new things and 
 
 <h4 align="center">
 
-` Scaler HackX 2021 #2 (2/10718) `
+`** Scaler HackX 2021 #2 (2/10718 **`
 <br/>
 
-` Google Devfest 2021 Web track #2 `
+`** Google Devfest 2021 Web track #2 **`
 
 </h4>
 <h5 align="center">
 
-[Click to see my Web-Resume](https://Om-Londhe.github.io/Web-Resume/)
+[Click to see my Web-Resume](https://omlondhe.github.io/Web-Resume/)
 
 </h5>
 
@@ -35,7 +39,7 @@ I'm a Student who loves to develop things that can help me learn new things and 
 
 <div align="center">
 
-![GitHub metrics](https://metrics.lecoq.io/Om-Londhe)
+![GitHub metrics](https://metrics.lecoq.io/omlondhe)
 
 </div>
 
@@ -45,10 +49,10 @@ Trophies and Statistics
 </h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Londhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Om-Londhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=Om-Londhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omlondhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://github-readme-stats.vercel.app/api?username=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=omlondhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
 </p>
 <hr/>
 
@@ -56,7 +60,7 @@ Trophies and Statistics
 Let's get connected!
 </h3>
 <p align="center">
-    <a target="" href="https://github.com/Om-Londhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
+    <a target="" href="https://github.com/omlondhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://medium.com/@oplondhe"><img src="/images/medium.svg" width="44" height="44" /></a> &nbsp;
     <a target="_blank" href="https://www.npmjs.com/~om-londhe"><img src="/images/npm.svg" width="44" height="44" /></a> &nbsp;
