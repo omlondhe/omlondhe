@@ -1,87 +1,206 @@
-<p align="center"><img src="/images/hi.gif" /></p>
+<!-- New -->
+## Hello World
+```ts
+type SkillsType = {
+    languages: string[];
+    libraries: string[];
+    frameworks: string[];
+    databases: string[];
+    runtimes: string[];
+    tools: string[];
+};
 
-<h1 align="center">
-HELLO &amp; WELCOME <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+type InformationType = {
+    name: string;
+    pronouns: "he/him" | "she/her" | "them/they";
+    location: string;
+    skills: SkillsType;
+    currentOrganisation: string | null;
+};
 
-<div align="center">
+const information: InformationType  = {
+    name: "Om Prashant Londhe",
+    pronouns: "he/him",
+    currentOrganisation: "Loop Health",
+    location: "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+    skills: {
+        languages: ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Python", "Dart"],
+        libraries: ["ReactJS", "ChartJS", "Axios"],
+        frameworks: ["NextJS", "Tailwind CSS", "Bootstrap", "ExpressJS", "React Native", "Flutter", "Django"],
+        runtimes: ["NodeJS"],
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        tools: ["Git", "GitHub", "Postman", "Firebase", "Docker", "Kubernetes", "Figma"],
+    },
+};
 
-[![Profile views](https://gpvc.arturio.dev/omlondhe)](https://github.com/omlondhe)
-[![Twitter: omlondhe03](https://img.shields.io/twitter/follow/omlondhe03?style=social)](https://twitter.com/omlondhe03)
-[![Linkedin: omlondhe](https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/)](https://www.linkedin.com/in/omlondhe/)
-[![GitHub followers](https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers)
-[![GitHub contributors](https://img.shields.io/github/contributors/omlondhe/omlondhe.svg)](https://GitHub.com/omlondhe/omlondhe/graphs/contributors/)
+console.log(information)
+```
 
-</div>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=omlondhe&label=Profile%20views&color=0e75b6&style=flat"
+        alt="omlondhe" />
+    <a href="https://twitter.com/omlondhe2133" target="blank">
+        <img src="https://img.shields.io/twitter/follow/omlondhe2133?logo=twitter&style=social" alt="omlondhe2133" />
+    </a>
+    <a href="https://www.youtube.com/@omlondhe" target="blank">
+        <img src="https://img.shields.io/youtube/channel/views/UCnyll20S7UJkXWvG0lVCGTw?logo=youtube&style=social"
+            alt="omlondhe2133" />
+    </a>
+    <a href="https://www.youtube.com/@omlondhe" target="blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCnyll20S7UJkXWvG0lVCGTw
+?logo=youtube&style=social" alt="omlondhe2133" />
+    </a>
+    <a href="https://www.linkedin.com/in/omlondhe" target="blank">
+        <img src="https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/" alt="omlondhe2133" />
+    </a>
+    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe  />
+        
+</p>
+<br />
 
-<!-- <p align="center"><img src="https://github-hero-readme.vercel.app/api?username=omlondhe&linkedin=omlondhe&twitter=omlondhe03" href="https://linktr.ee/omlondhe"/> -->
+![Contribution
+graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=darcula)
 
-<h4 align="center">
-My name is Om Prashant Londhe and I'm from Aurangabad, Maharashtra, India.
-I'm a Student who loves to develop things that can help me learn new things and be better at what I know to sustain in the world of technology.
-</h4>
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omlondhe&layout=donut&hide=python,Tex,tcl,c,Jupyter%20Notebook,ASP.NET,C%23,Java&rank_icon=percentile)
 
-<h4 align="center">
+<img
+    src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
 
 
-`| Postman Student Expert |`
-<br/>
+![Contribution
+graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=github_dark)
 
-`| Elite at Scaler |`
-<br/>
 
-`| Scaler HackX 2021 #2 (2/10,718) |`
-<br/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/omlondhe/omlondhe/output/github-contribution-grid-snake.svg"
+        width="700" />
+</p>
 
-`| Google Devfest 2021 Web track #2 |`
+<!-- ### Blogs posts -->
 
-</h4>
-<h5 align="center">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://codepen.io/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://dev.to/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://twitter.com/omlondhe2133" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="omlondhe2133" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/om-londhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="om-londhe" height="30" width="40" /></a>
+    <a href="https://codesandbox.com/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://instagram.com/omlondhe2133" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="omlondhe2133" height="30" width="40" /></a>
+    <a href="https://hashnode.com/@omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
+            alt="@omlondhe" height="30" width="40" /></a>
+    <a href="https://medium.com/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/om londhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="om londhe" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/devom" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devom" height="30"
+            width="40" /></a>
+    <a href="https://www.leetcode.com/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://www.hackerearth.com/@om-londhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+            alt="@om-londhe" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://discord.gg/467004850610372608" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="467004850610372608" height="30" width="40" /></a>
+</p>
 
-[Click to see my Web-Resume](https://omlondhe.github.io/Web-Resume/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank"
+        rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"
+            height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> <a
+        href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
+            height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
+            height="40" /> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://kubernetes.io" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"
+            width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> <a
+        href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+            height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
+        rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
+            height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+            width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a>
+</p>
 
-</h5>
 
-<hr/>
+![Om's wakatime
+stats](https://github-readme-stats.vercel.app/api/wakatime?username=omlondhe&langs_count=5&layout=compact&hide=python,Tex,tcl,c,Jupyter%20Notebook,ASP.NET,C%23,Java)
 
-<div align="center">
 
 ![GitHub metrics](https://metrics.lecoq.io/omlondhe)
 
-</div>
 
-<hr/>
-<h3 align="center">
-Trophies and Statistics
-</h3>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omlondhe&theme=vision-friendly-dark&langs_count=7&layout=compact" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://github-readme-stats.vercel.app/api?username=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
-    <p align="center"> <img src="https://raw.githubusercontent.com/omlondhe/omlondhe/output/github-contribution-grid-snake.svg" width="700"/> </p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=omlondhe&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true" />
-</p>
-<hr/>
-
-<h3 align="center">
-Let's get connected!
-</h3>
-<p align="center">
-    <a target="" href="https://github.com/omlondhe"><img src="/images/github.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/omlondhe"><img src="/images/linkedin.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://medium.com/@oplondhe"><img src="/images/medium.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://www.npmjs.com/~om-londhe"><img src="/images/npm.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://g.dev/omlondhe"><img src="/images/googledeveloper.png" width="44" height="44" style="border-radius: 11px;" /></a> &nbsp;
-    <a target="_blank" href="https://twitter.com/OmLondhe2003"><img src="/images/twitter.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://play.google.com/store/search?q=pub%3AOm%20Londhe&c=apps"><img src="/images/playstore.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/e2d9970c-0bf9-46d4-a8f5-2a2d1b46088c"><img src="/images/gcloud.png" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://www.google.com/search?q=om+londhe&sxsrf=AOaemvIYCXrDj24nHS0UpvdK-RPSKuMu0A%3A1638252247472&ei=176lYeqdHMKVxc8PhPO4yAI&ved=0ahUKEwiq5Yyatb_0AhXCSvEDHYQ5DikQ4dUDCA4&uact=5&oq=om+londhe&gs_lcp=Cgdnd3Mtd2l6EAMyBwgjELADECcyBwgjELADECcyBwgjELADECdKBAhBGAFQAFgAYPECaAFwAHgAgAEAiAEAkgEAmAEAyAEDwAEB&sclient=gws-wiz"><img src="/images/google.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://discord.com/channels/@me/914922032582504558"><img src="/images/discord.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://dev.to/omlondhe"><img src="/images/dev.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://stackoverflow.com/users/13173860/devom"><img src="/images/stackoverflow.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://www.quora.com/profile/OmLondhe"><img src="/images/quora.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://www.youtube.com/channel/UCnyll20S7UJkXWvG0lVCGTw"><img src="/images/youtube.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="https://open.spotify.com/user/31qwx67gwp37qsik4j36s7xrna6m"><img src="/images/spotify.svg" width="44" height="44" /></a> &nbsp;
-    <a target="_blank" href="mailto:oplondhe@gmail.com"><img src="/images/gmail.svg" width="44" height="44" /></a> &nbsp;
-</p>
