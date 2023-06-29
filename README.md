@@ -54,7 +54,7 @@ console.log(information)
     <a href="https://www.linkedin.com/in/omlondhe" target="blank">
         <img src="https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/" alt="omlondhe2133" />
     </a>
-    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe  />      
+    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe"  />      
 </p>
         
 
