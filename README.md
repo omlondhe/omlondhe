@@ -1,5 +1,6 @@
 <!-- New -->
-## Hello World
+# Hello World, Om Londhe here!
+
 ```ts
 type SkillsType = {
     languages: string[];
@@ -46,91 +47,38 @@ console.log(information)
         <img src="https://img.shields.io/youtube/channel/views/UCnyll20S7UJkXWvG0lVCGTw?logo=youtube&style=social"
             alt="omlondhe2133" />
     </a>
-    <a href="https://www.youtube.com/@omlondhe" target="blank">
+<!--     <a href="https://www.youtube.com/@omlondhe" target="blank">
         <img src="https://img.shields.io/youtube/channel/subscribers/UCnyll20S7UJkXWvG0lVCGTw
 ?logo=youtube&style=social" alt="omlondhe2133" />
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/omlondhe" target="blank">
         <img src="https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/" alt="omlondhe2133" />
     </a>
-    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe  />
-        
+    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe  />      
 </p>
-<br />
+        
 
-![Contribution
-graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=darcula)
+---
 
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omlondhe&layout=donut&hide=python,Tex,tcl,c,Jupyter%20Notebook,ASP.NET,C%23,Java&rank_icon=percentile)
+        
+## My stats
 
 <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+    src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=github_dark" width="100%" />
 
-![Contribution
-graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=github_dark)
-
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/omlondhe/omlondhe/output/github-contribution-grid-snake.svg"
-        width="700" />
-</p>
+<img src="https://raw.githubusercontent.com/omlondhe/omlondhe/output/github-contribution-grid-snake.svg" width="100%" />
 
 <!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://codepen.io/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://dev.to/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://twitter.com/omlondhe2133" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="omlondhe2133" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/om-londhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="om-londhe" height="30" width="40" /></a>
-    <a href="https://codesandbox.com/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://instagram.com/omlondhe2133" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="omlondhe2133" height="30" width="40" /></a>
-    <a href="https://hashnode.com/@omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-            alt="@omlondhe" height="30" width="40" /></a>
-    <a href="https://medium.com/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/om londhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="om londhe" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/devom" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devom" height="30"
-            width="40" /></a>
-    <a href="https://www.leetcode.com/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://www.hackerearth.com/@om-londhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-            alt="@om-londhe" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/omlondhe" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="omlondhe" height="30" width="40" /></a>
-    <a href="https://discord.gg/467004850610372608" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="467004850610372608" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+
+## Languages and Tools
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank"
@@ -195,6 +143,58 @@ graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
+
+
+
+## Connect with me
+<p align="left">
+    <a href="https://codepen.io/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://dev.to/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://twitter.com/omlondhe2133" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="omlondhe2133" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/om-londhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="om-londhe" height="30" width="40" /></a>
+    <a href="https://codesandbox.com/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://instagram.com/omlondhe2133" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="omlondhe2133" height="30" width="40" /></a>
+    <a href="https://hashnode.com/@omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
+            alt="@omlondhe" height="30" width="40" /></a>
+    <a href="https://medium.com/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/om londhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="om londhe" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/devom" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devom" height="30"
+            width="40" /></a>
+    <a href="https://www.leetcode.com/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://www.hackerearth.com/@om-londhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+            alt="@om-londhe" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/omlondhe" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="omlondhe" height="30" width="40" /></a>
+    <a href="https://discord.gg/467004850610372608" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="467004850610372608" height="30" width="40" /></a>
+</p>
+
 
 
 ![Om's wakatime
