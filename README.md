@@ -64,7 +64,7 @@ console.log(information)
 ## My stats
 
 <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" width="100%" />
+    src="https://github-readme-streak-stats.herokuapp.com?user=omlondhe&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" width="100%" />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=github_dark" width="100%" />
 
