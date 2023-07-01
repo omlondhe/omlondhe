@@ -201,6 +201,3 @@ console.log(information)
 stats](https://github-readme-stats.vercel.app/api/wakatime?username=omlondhe&langs_count=5&layout=compact&hide=python,Tex,tcl,c,Jupyter%20Notebook,ASP.NET,C%23,Java)
 
 
-![GitHub metrics](https://metrics.lecoq.io/omlondhe)
-
-
