@@ -68,8 +68,6 @@ console.log(information)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omlondhe&theme=github_dark" width="100%" />
 
-<img src="https://raw.githubusercontent.com/omlondhe/omlondhe/output/github-contribution-grid-snake.svg" width="100%" />
-
 <!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
