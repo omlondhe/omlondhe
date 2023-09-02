@@ -195,8 +195,9 @@ console.log(information)
 
 --- 
 
-![I listen to:](https://spotify-recently-played-readme.vercel.app/api?user=31qwx67gwp37qsik4j36s7xrna6m&unique=true)
+<!-- ![I listen to:](https://spotify-recently-played-readme.vercel.app/api?user=31qwx67gwp37qsik4j36s7xrna6m&unique=true)
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&qColor=white&aColor=whitesmoke&textColor=white&width="100%")
+-->
