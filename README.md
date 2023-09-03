@@ -37,6 +37,57 @@ const information: InformationType  = {
 console.log(information)
 ```
 
+```powershell
+[LOG]: {
+  "name": "Om Prashant Londhe",
+  "pronouns": "he/him",
+  "currentOrganisation": "Loop Health",
+  "location": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+  "skills": {
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "C++",
+      "Python",
+      "Dart"
+    ],
+    "libraries": [
+      "ReactJS",
+      "ChartJS",
+      "Axios"
+    ],
+    "frameworks": [
+      "NextJS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "ExpressJS",
+      "React Native",
+      "Flutter",
+      "Django"
+    ],
+    "runtimes": [
+      "NodeJS"
+    ],
+    "databases": [
+      "MongoDB",
+      "MySQL",
+      "SQLite"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Firebase",
+      "Docker",
+      "Kubernetes",
+      "Figma"
+    ]
+  }
+} 
+```
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=omlondhe&label=Profile%20views&color=0e75b6&style=flat"
         alt="omlondhe" />
