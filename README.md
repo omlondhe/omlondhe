@@ -22,7 +22,7 @@ type InformationType = {
 const information: InformationType  = {
     name: "Om Prashant Londhe",
     pronouns: "he/him",
-    currentOrganisation: "Loop Health",
+    currentOrganisation: "Mercor",
     location: "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
     skills: {
         languages: ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Python", "Dart"],
