@@ -41,7 +41,7 @@ console.log(information)
 [LOG]: {
   "name": "Om Prashant Londhe",
   "pronouns": "he/him",
-  "currentOrganisation": "Loop Health",
+  "currentOrganisation": "Mercor",
   "location": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
   "skills": {
     "languages": [
