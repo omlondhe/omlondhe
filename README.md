@@ -1,5 +1,23 @@
 <!-- New -->
-# Hello World, Om Londhe here!
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=omlondhe&label=Profile%20views&color=0e75b6&style=flat"
+        alt="omlondhe" />
+    <a href="https://twitter.com/omlondhe2133" target="blank">
+        <img src="https://img.shields.io/twitter/follow/omlondhe2133?logo=twitter&style=social" alt="omlondhe2133" />
+    </a>
+    <a href="https://www.youtube.com/@omlondhe" target="blank">
+        <img src="https://img.shields.io/youtube/channel/views/UCnyll20S7UJkXWvG0lVCGTw?logo=youtube&style=social"
+            alt="omlondhe2133" />
+    </a>
+<!--     <a href="https://www.youtube.com/@omlondhe" target="blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCnyll20S7UJkXWvG0lVCGTw
+?logo=youtube&style=social" alt="omlondhe2133" />
+    </a> -->
+    <a href="https://www.linkedin.com/in/omlondhe" target="blank">
+        <img src="https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/" alt="omlondhe2133" />
+    </a>
+    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe"  />      
+</p>
 
 ```ts
 type SkillsType = {
@@ -89,27 +107,6 @@ console.log(information)
 ```
 
 <a href="https://app.daily.dev/omlondhe185"><img src="https://api.daily.dev/devcards/v2/USyxN1GPx9mu43dcLJdur.png?type=wide&r=gzs" width="100%" alt="Om Londhe's Dev Card"/></a>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=omlondhe&label=Profile%20views&color=0e75b6&style=flat"
-        alt="omlondhe" />
-    <a href="https://twitter.com/omlondhe2133" target="blank">
-        <img src="https://img.shields.io/twitter/follow/omlondhe2133?logo=twitter&style=social" alt="omlondhe2133" />
-    </a>
-    <a href="https://www.youtube.com/@omlondhe" target="blank">
-        <img src="https://img.shields.io/youtube/channel/views/UCnyll20S7UJkXWvG0lVCGTw?logo=youtube&style=social"
-            alt="omlondhe2133" />
-    </a>
-<!--     <a href="https://www.youtube.com/@omlondhe" target="blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UCnyll20S7UJkXWvG0lVCGTw
-?logo=youtube&style=social" alt="omlondhe2133" />
-    </a> -->
-    <a href="https://www.linkedin.com/in/omlondhe" target="blank">
-        <img src="https://img.shields.io/badge/-omlondhe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omlondhe/" alt="omlondhe2133" />
-    </a>
-    <img src="https://img.shields.io/github/followers/omlondhe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omlondhe?tab=followers" alt="omlondhe"  />      
-</p>
-        
 
 ---
 
