@@ -88,6 +88,8 @@ console.log(information)
 } 
 ```
 
+<a href="https://app.daily.dev/omlondhe185"><img src="https://api.daily.dev/devcards/v2/USyxN1GPx9mu43dcLJdur.png?type=wide&r=gzs" width="100%" alt="Om Londhe's Dev Card"/></a>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=omlondhe&label=Profile%20views&color=0e75b6&style=flat"
         alt="omlondhe" />
