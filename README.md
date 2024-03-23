@@ -20,24 +20,7 @@
 </p>
 
 ```ts
-type SkillsType = {
-    languages: string[];
-    libraries: string[];
-    frameworks: string[];
-    databases: string[];
-    runtimes: string[];
-    tools: string[];
-};
-
-type InformationType = {
-    name: string;
-    pronouns: "he/him" | "she/her" | "them/they";
-    location: string;
-    skills: SkillsType;
-    currentOrganisation: string | null;
-};
-
-const information: InformationType  = {
+const information = {
     name: "Om Prashant Londhe",
     pronouns: "he/him",
     currentOrganisation: "Mercor",
@@ -62,46 +45,12 @@ console.log(information)
   "currentOrganisation": "Mercor",
   "location": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
   "skills": {
-    "languages": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "C++",
-      "Python",
-      "Dart"
-    ],
-    "libraries": [
-      "ReactJS",
-      "ChartJS",
-      "Axios"
-    ],
-    "frameworks": [
-      "NextJS",
-      "Tailwind CSS",
-      "Bootstrap",
-      "ExpressJS",
-      "React Native",
-      "Flutter",
-      "Django"
-    ],
-    "runtimes": [
-      "NodeJS"
-    ],
-    "databases": [
-      "MongoDB",
-      "MySQL",
-      "SQLite"
-    ],
-    "tools": [
-      "Git",
-      "GitHub",
-      "Postman",
-      "Firebase",
-      "Docker",
-      "Kubernetes",
-      "Figma"
-    ]
+    "languages": ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Python", "Dart"],
+    "libraries": ["ReactJS", "ChartJS", "Axios"],
+    "frameworks": ["NextJS", "Tailwind CSS", "Bootstrap", "ExpressJS", "React Native", "Flutter", "Django"],
+    "runtimes": ["NodeJS"],
+    "databases": ["MongoDB", "MySQL", "SQLite"],
+    "tools": ["Git", "GitHub", "Postman", "Firebase", "Docker", "Kubernetes", "Figma"]
   }
 } 
 ```
