@@ -35,24 +35,6 @@ const information = {
     },
 };
 
-console.log(information)
-```
-
-```powershell
-[LOG]: {
-  "name": "Om Prashant Londhe",
-  "pronouns": "he/him",
-  "currentOrganisation": "Mercor",
-  "location": "Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
-  "skills": {
-    "languages": ["HTML", "CSS", "JavaScript", "TypeScript", "C++", "Python", "Dart"],
-    "libraries": ["ReactJS", "ChartJS", "Axios"],
-    "frameworks": ["NextJS", "Tailwind CSS", "Bootstrap", "ExpressJS", "React Native", "Flutter", "Django"],
-    "runtimes": ["NodeJS"],
-    "databases": ["MongoDB", "MySQL", "SQLite"],
-    "tools": ["Git", "GitHub", "Postman", "Firebase", "Docker", "Kubernetes", "Figma"]
-  }
-} 
 ```
 
 <a href="https://app.daily.dev/omlondhe185"><img src="https://api.daily.dev/devcards/v2/USyxN1GPx9mu43dcLJdur.png?type=wide&r=gzs" width="100%" alt="Om Londhe's Dev Card"/></a>
